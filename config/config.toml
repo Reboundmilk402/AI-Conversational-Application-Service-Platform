@@ -1,0 +1,55 @@
+[mainConfig]
+appName = "GopherAI"
+host = "0.0.0.0"
+port = 9091
+
+[emailConfig]
+authcode = "replace-with-your-mail-authcode"
+email = "your-email@example.com"
+
+[redisConfig]
+host = "127.0.0.1"
+port = 6379
+password = ""
+db = 0
+
+[mysqlConfig]
+host = "127.0.0.1"
+port = 3306
+user = "your-mysql-user"
+password = "your-mysql-password"
+databaseName = "GopherAI"
+charset =  "utf8mb4"
+
+[jwtConfig]
+ expire_duration= 8760
+ issuer= "your-app"
+ subject= "GopherAI"
+ key= "replace-with-a-random-jwt-secret"
+
+ [rabbitmqConfig]
+  host= "127.0.0.1"
+  port= 5672
+  username= "your-rabbitmq-user"
+  password= "your-rabbitmq-password"
+  vhost= "/"
+
+[aiConfig]
+apiKey = "replace-with-your-cloud-api-key"
+modelName = "your-cloud-model"
+baseURL = "https://your-openai-compatible-endpoint"
+
+[ollamaConfig]
+baseURL = "http://127.0.0.1:11434"
+modelName = "qwen2.5:latest"
+
+[searchConfig]
+enabled = true
+maxResults = 5
+newsLanguage = "zh-CN"
+newsRegion = "CN"
+newsEdition = "CN:zh-Hans"
+
+
+
+

@@ -1,0 +1,20 @@
+# Go
+.gocache/
+*.exe
+*.dll
+*.so
+*.test
+coverage.out
+
+# Logs and temp files
+*.log
+tmp/
+
+# Frontend
+vue-frontend/node_modules/
+vue-frontend/dist/
+
+# Local env files
+.env
+.env.*
+config/*.local.toml

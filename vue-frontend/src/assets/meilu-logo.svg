@@ -1,0 +1,63 @@
+<svg width="560" height="220" viewBox="0 0 560 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="card" x1="40" y1="18" x2="520" y2="206" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8F2EA"/>
+      <stop offset="1" stop-color="#EFE4D6"/>
+    </linearGradient>
+    <linearGradient id="orb" x1="52" y1="42" x2="176" y2="168" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17382E"/>
+      <stop offset="1" stop-color="#0A1914"/>
+    </linearGradient>
+    <linearGradient id="plum" x1="57" y1="46" x2="157" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C95E71"/>
+      <stop offset="1" stop-color="#8B3146"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="64" y1="46" x2="150" y2="134" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E7C48C"/>
+      <stop offset="1" stop-color="#C3914C"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="560" height="220" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="10"/>
+      <feGaussianBlur stdDeviation="16"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.0588235 0 0 0 0 0.121569 0 0 0 0 0.101961 0 0 0 0.16 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_1"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_1" result="shape"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <rect x="22" y="18" width="516" height="156" rx="34" fill="url(#card)"/>
+    <rect x="22.75" y="18.75" width="514.5" height="154.5" rx="33.25" stroke="#D8C6AF" stroke-opacity="0.72" stroke-width="1.5"/>
+  </g>
+
+  <circle cx="113" cy="96" r="58" fill="url(#orb)"/>
+  <circle cx="113" cy="96" r="57.25" stroke="#EBD7B5" stroke-opacity="0.55" stroke-width="1.5"/>
+
+  <path d="M82 70C72 54 65 49 53 45" stroke="url(#gold)" stroke-width="5" stroke-linecap="round"/>
+  <path d="M82 70C72 66 63 65 55 67" stroke="url(#gold)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M82 70C77 78 71 82 64 86" stroke="url(#gold)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M144 70C154 54 161 49 173 45" stroke="url(#gold)" stroke-width="5" stroke-linecap="round"/>
+  <path d="M144 70C154 66 163 65 171 67" stroke="url(#gold)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M144 70C149 78 155 82 162 86" stroke="url(#gold)" stroke-width="4" stroke-linecap="round"/>
+
+  <path d="M113 84C120 84 126 89 128 97C130 106 125 115 116 119C107 123 97 119 93 110C89 101 92 90 100 86C104 84 108 84 113 84Z" fill="#F8F2EA" fill-opacity="0.92"/>
+  <circle cx="102" cy="98" r="4.5" fill="#0D201A"/>
+  <circle cx="124" cy="98" r="4.5" fill="#0D201A"/>
+  <path d="M113 102L107 111H119L113 102Z" fill="#C3914C"/>
+  <path d="M103 117C106 121 110 123 113 123C116 123 120 121 123 117" stroke="#E9D6B2" stroke-width="3.2" stroke-linecap="round"/>
+
+  <path d="M113 57L120 73L137 76L125 89L128 106L113 98L98 106L101 89L89 76L106 73L113 57Z" fill="url(#plum)"/>
+  <path d="M70 112L75 124L88 126L79 135L81 148L70 142L59 148L61 135L52 126L65 124L70 112Z" fill="url(#plum)" fill-opacity="0.88"/>
+  <path d="M156 112L161 124L174 126L165 135L167 148L156 142L145 148L147 135L138 126L151 124L156 112Z" fill="url(#plum)" fill-opacity="0.88"/>
+
+  <path d="M216 81H516" stroke="#D9C8B1" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="236" cy="81" r="4" fill="#B64F61"/>
+  <circle cx="504" cy="81" r="4" fill="#D3B07B"/>
+
+  <text x="214" y="121" fill="#17382E" font-size="44" font-weight="700" font-family="'Microsoft YaHei', 'PingFang SC', sans-serif" letter-spacing="2">梅鹿灵境</text>
+  <text x="217" y="149" fill="#A65A45" font-size="16" font-weight="700" font-family="'Segoe UI', sans-serif" letter-spacing="3.6">MEILU REALM CHAT</text>
+  <text x="216" y="60" fill="#B64F61" font-size="13" font-weight="700" font-family="'Segoe UI', sans-serif" letter-spacing="4.2">IMMERSIVE AI CHATROOM</text>
+</svg>

